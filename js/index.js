@@ -1,4 +1,4 @@
-const CLIENT_ID = '42d2a62bf5e04b6e9d9e4a4d5f858df1';
+const CLIENT_ID = 'a72c895e5019427b817635065f572df1';
 const REDIRECT_URI = window.location.origin + window.location.pathname;
 const BASEURL = 'https://api.spotify.com/v1';
 
