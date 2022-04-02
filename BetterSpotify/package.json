@@ -1,0 +1,14 @@
+{
+  "name": "betterspotify",
+  "version": "1.0.0",
+  "description": "**Available at [Most Played for Spotify](https://mostplayed.kushagr.net)**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package.json"
+  ],
+  "author": "Axyanz",
+  "license": "ISC"
+}
